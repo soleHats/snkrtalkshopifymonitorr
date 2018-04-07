@@ -105,7 +105,7 @@ exports.send = function send (webhook, product, type, timestamp) {
                 },
                 "footer": {
                   "icon_url": "https://cdn.shopify.com/s/files/1/1061/1924/products/Heart_Eyes_Emoji_2_large.png?v=1513251039",
-                  "text": "BotSPLY Shopify Monitor made by atombot"
+                  "text": "Shopify Monitor | made by @greysonhur"
                 },
                 "fields": [
                   {
