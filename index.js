@@ -15,7 +15,7 @@ require("console-stamp")(console, {
 var mod = require(`./src/monitor`).init
 
 console.log(chalk.red('-------------------------'));
-console.log(chalk.green('   SNKR Talk Monitor    '));
+console.log(chalk.green('    Shopify Monitor    '));
 console.log(chalk.green('      @greysonhur       '));
 console.log(chalk.red('-------------------------'));
 console.log(chalk.magenta(`Found ${config.sites.length} sites.`));
